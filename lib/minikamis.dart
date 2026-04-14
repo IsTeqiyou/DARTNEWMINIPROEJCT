@@ -103,7 +103,7 @@ class Reject extends StatelessWidget {
 
             SizedBox(height: 20),
 
-            // 🔹 FLASH SALE
+          
             Container(
               color: Colors.orange[100],
               padding: EdgeInsets.all(16),
@@ -143,7 +143,7 @@ class Reject extends StatelessWidget {
                           ),
                         ),
 
-                        // produk 2
+                        
                         Container(
                           width: 150,
                           margin: EdgeInsets.only(right: 10),
@@ -161,7 +161,7 @@ class Reject extends StatelessWidget {
                           ),
                         ),
 
-                        // produk 3
+                       
                         Container(
                           width: 150,
                           margin: EdgeInsets.only(right: 10),

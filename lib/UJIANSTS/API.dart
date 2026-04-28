@@ -12,4 +12,4 @@ class _miniprojectState extends State<miniproject> {
   Widget build(BuildContext context) {
     return Scaffold();
   }
-}
+} 
